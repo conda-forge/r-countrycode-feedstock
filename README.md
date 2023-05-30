@@ -1,11 +1,11 @@
-About r-countrycode
-===================
+About r-countrycode-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-countrycode-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/vincentarelbundock/countrycode
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-countrycode-feedstock/blob/main/LICENSE.txt)
 
 Summary: Standardize country names, convert them into one of eleven coding schemes, convert between coding schemes, and assign region descriptors.
 
